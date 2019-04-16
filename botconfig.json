@@ -1,5 +1,5 @@
 {
     "token": "process.env.BOT_TOKEN",
     "prefix": "#",
-    "devs":["your id"],
+    "devs":["process.env.DEV_ID"],
 }
