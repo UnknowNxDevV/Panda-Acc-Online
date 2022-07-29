@@ -1,61 +1,109 @@
-const Discord = require('discord.js');
-const client = new Discord.Client();
-const botconfig = require("./botconfig.json");
-const fs = require("fs");
-let prefix = botconfig.prefix
-let devs = botconfig.devs;
+const Discord = require("discord.js");
+const ano = new Discord.Client();
+const ano2 = new Discord.Client();
+const ano3 = new Discord.Client();
+const ano4 = new Discord.Client();
+const ano5 = new Discord.Client();
+const ano6 = new Discord.Client();
+const ano7 = new Discord.Client();
+const ano8 = new Discord.Client();
+const ano9 = new Discord.Client();
+const ano10 = new Discord.Client();
+const ano11 = new Discord.Client();
+const ano12 = new Discord.Client();
+const ano13 = new Discord.Client();
+const ano14 = new Discord.Client();
+const ano15 = new Discord.Client();
+const ano16 = new Discord.Client();
+const ano17 = new Discord.Client();
+const ano18 = new Discord.Client();
+const ano19 = new Discord.Client();
+const ano20 = new Discord.Client();
+const ano21 = new Discord.Client();
+const ano22 = new Discord.Client();
+const ano23 = new Discord.Client();
+const ano24 = new Discord.Client();
+const ano25 = new Discord.Client();
+
+
+////////بە هیج شیوازیک دەستکاری مەکە مەیکە بە ناوە خۆتەوە
 
 
 
-
-client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
-  console.log('')
-  console.log('')
-  console.log('╔[═════════════════════════════════════════════════════════════════]╗')
-  console.log(`[Start] ${new Date()}`);
-  console.log('╚[═════════════════════════════════════════════════════════════════]╝')
-  console.log('')
-  console.log('╔[════════════════════════════════════]╗');
-  console.log(`Logged in as * [ " ${client.user.username} " ]`);
-  console.log('')
-  console.log('Informations :')
-  console.log('')
-  console.log(`servers! [ " ${client.guilds.size} " ]`);
-  console.log(`Users! [ " ${client.users.size} " ]`);
-  console.log(`channels! [ " ${client.channels.size} " ]`);
-  console.log('╚[════════════════════════════════════]╝')
-  console.log('')
-  console.log('╔[════════════]╗')
-  console.log(' Bot Is Online')
-  console.log('╚[════════════]╝')
-  console.log('')
-  console.log('')
+////////////
+const prefix = "ano";
+////////////
+ano.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-client.login(botconfig.token);
+////////////
+const prefix = "ano";
+////////////
+ano.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
