@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "panda",
+  "description": "panda",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
