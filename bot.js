@@ -26,7 +26,8 @@ const ano24 = new Discord.Client();
 const ano25 = new Discord.Client();
 
 
-////////بە هیج شیوازیک دەستکاری مەکە مەیکە بە ناوە خۆتەوە
+
+‎////////بە هیج شیوازیک دەستکاری مەکە مەیکە بە ناوە خۆت
 
 
 
@@ -44,7 +45,7 @@ ano.on("message", message => {
 ////////////
 const prefix = "ano";
 ////////////
-ano.login("");
+ano2.login("");
 ano.on("message", message => {
   if (message.channel.id === "NONE") {
     message.react("🤍").then(() => {
@@ -55,7 +56,7 @@ ano.on("message", message => {
 ////////////
 const prefix = "ano";
 ////////////
-ano.login("");
+ano3.login("");
 ano.on("message", message => {
   if (message.channel.id === "NONE") {
     message.react("🤍").then(() => {
@@ -66,7 +67,7 @@ ano.on("message", message => {
 ////////////
 const prefix = "ano";
 ////////////
-ano.login("");
+ano4.login("");
 ano.on("message", message => {
   if (message.channel.id === "NONE") {
     message.react("🤍").then(() => {
@@ -77,7 +78,7 @@ ano.on("message", message => {
 ////////////
 const prefix = "ano";
 ////////////
-ano.login("");
+ano5.login("");
 ano.on("message", message => {
   if (message.channel.id === "NONE") {
     message.react("🤍").then(() => {
@@ -88,7 +89,7 @@ ano.on("message", message => {
 ////////////
 const prefix = "ano";
 ////////////
-ano.login("");
+ano6.login("");
 ano.on("message", message => {
   if (message.channel.id === "NONE") {
     message.react("🤍").then(() => {
@@ -99,7 +100,7 @@ ano.on("message", message => {
 ////////////
 const prefix = "ano";
 ////////////
-ano.login("");
+ano7.login("");
 ano.on("message", message => {
   if (message.channel.id === "NONE") {
     message.react("🤍").then(() => {
@@ -107,3 +108,184 @@ ano.on("message", message => {
     });
   }
 });
+////////////
+const prefix = "ano";
+////////////
+ano8.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano9.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano10.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano11.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano12.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano13.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano14.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano15.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano16.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+});
+////////////
+const prefix = "ano";
+////////////
+ano17.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  }
+////////////
+const prefix = "ano";
+////////////
+ano18.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+////////////
+const prefix = "ano";
+////////////
+ano19.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+////////////
+const prefix = "ano";
+////////////
+ano20.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+  ////////////
+const prefix = "ano";
+////////////
+ano21.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+////////////
+const prefix = "ano";
+////////////
+ano22.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+////////////
+const prefix = "ano";
+////////////
+ano23.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+////////////
+const prefix = "ano";
+////////////
+ano24.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
+////////////
+const prefix = "ano";
+////////////
+ano25.login("");
+ano.on("message", message => {
+  if (message.channel.id === "NONE") {
+    message.react("🤍").then(() => {
+      message.react("🖤");
+    });
