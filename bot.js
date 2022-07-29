@@ -289,3 +289,4 @@ ano.on("message", message => {
     message.react("🤍").then(() => {
       message.react("🖤");
     });
+//////////////////
