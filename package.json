@@ -2,9 +2,9 @@
   "name": "panda",
   "description": "panda",
   "version": "0.0.0",
-  "main": "index.js",
+  "main": "panda.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node panda.js"
   },
   "dependencies": {
    "discord.js": "^11.3.2",
